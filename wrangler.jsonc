@@ -1,5 +1,13 @@
 {
-  "name": "upcmachine",
+  "name": "upcmachine1",
   "main": "src/index.js",
-  "compatibility_date": "2026-09-05"
+  "compatibility_date": "2026-09-05",
+
+  "d1_databases": [
+    {
+      "binding": "UPCMACHINE",
+      "database_name": "upcmachine",
+      "database_id": "5a0690aa-b193-4392-9eee-a5414be926d5"
+    }
+  ]
 }
